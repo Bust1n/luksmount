@@ -1,2 +1,2 @@
 # luksmount
-Bash scripts automating mounting a luks encrypted device
+Bash scripts to automate mounting a luks encrypted devices
